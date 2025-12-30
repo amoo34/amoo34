@@ -9,7 +9,7 @@ and building reliable services that scale under real-world load.
 ---
 
 ## 🚀 What I Build
-- High-performance **Node.js / NestJS** backends
+- High-performance **Node.js and Python** backends
 - **REST & GraphQL (Apollo)** APIs with clean contracts
 - Authentication, **RBAC**, and secure data access
 - **Microservices & event-driven systems**
