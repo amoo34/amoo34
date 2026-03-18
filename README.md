@@ -1,50 +1,54 @@
-# 👋 Hi, I'm Abdul Moiz Faisal
+# Hi, I'm Abdul Moiz
 
-**Senior Backend & Full-Stack Engineer** with **5+ years of experience** building
-**scalable, production-grade systems** used by **1M+ users**.
+**Full-Stack Engineer · AI Engineer · 6 Years Experience**
 
-I specialize in **backend-heavy full-stack development**, system design,
-and building reliable services that scale under real-world load.
-
----
-
-## 🚀 What I Build
-- High-performance **Node.js and Python** backends
-- **REST & GraphQL (Apollo)** APIs with clean contracts
-- Authentication, **RBAC**, and secure data access
-- **Microservices & event-driven systems**
-- Real-time systems (WebSockets / Socket.io)
-- Search systems using **Elasticsearch**
-- Scalable data layers with **PostgreSQL & Redis**
+I build two things well: production-grade full-stack systems at scale, and AI-powered products 
+RAG pipelines, agentic workflows, and LLM features that solve real business problems. 
+I have experienced across legal, real estate, healthcare, and social platforms.
 
 ---
 
-## 🧠 Engineering Mindset
-- Design systems for **scale, reliability & clarity**
-- Make **explicit trade-offs** (not over-engineering)
-- Write **maintainable, testable, production-ready code**
-- Strong focus on **performance, observability & DX**
-- Experience with **healthcare & compliance-aware systems (HIPAA)**
+## What I Build
+
+**Full-Stack**
+- Scalable backend APIs, REST, GraphQL, real-time systems serving 1M+ users
+- Microservices, event-driven architecture, distributed systems
+- Authentication, RBAC, secure data handling, HIPAA and GDPR-aware workflows
+- End-to-end product delivery: system design → deployment
+
+**AI & Generative AI**
+- RAG systems — multi-step retrieval, HyDE, hybrid search, re-ranking, contextual chunking
+- Agentic pipelines — LangGraph stateful agents, tool-calling, CrewAI orchestration
+- Multimodal RAG — text + image retrieval across documents and visual content
+- LLM evaluation — RAGAS benchmarking (faithfulness, context recall, answer relevance)
 
 ---
 
-## 🛠 Tech Stack
-**Backend:** Node.js, NestJS, Express  
-**Frontend:** React, Next.js, Vue.js  
-**APIs:** REST, GraphQL (Apollo)  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Search:** Elasticsearch  
-**Cloud & DevOps:** Docker, Kubernetes, CI/CD  
-**Messaging:** RabbitMQ  
-**Auth & Security:** JWT, RBAC, OAuth patterns  
+## Stack
+
+**AI / LLM:** LangChain · LangGraph · LangSmith · Pinecone · Jina AI · RAGAS · CrewAI · Instructor · Groq  
+**Backend:** FastAPI · Python · Node.js · NestJS · GraphQL (Apollo) · REST APIs  
+**Frontend:** Next.js · React · Vue.js  
+**Databases:** PostgreSQL · Supabase · MongoDB · Redis · Elasticsearch  
+**DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD · GCP · AWS  
+**Security:** JWT · RBAC · GDPR · HIPAA-aware · Envelope encryption
 
 ---
 
-## 📌 Current Focus
-- System design & distributed architectures  
-- Scaling APIs & background processing  
-- Clean backend abstractions  
-- High-bar engineering for remote teams  
+## Projects
+
+| Project | What it is | Domain |
+|---|---|---|
+| [LexCortex] | Legal document intelligence — contract Q&A, clause extraction, comparison engine, audit trail | Legal AI |
+| [Djaminn] | Social platform for music artists — real-time collaboration, content feeds, 1M+ users | Social / Music |
+| [Hauzpin] | Airbnb-style real estate marketplace — property listings, geospatial search, buy/sell/rent | PropTech |
+| Multimodal RAG Chatbot | Portfolio chatbot answering questions from documents and images | AI 
 
 ---
 
+## Contact
+
+**Portfolio:** [abdulmoiz.tech](https://abdulmoiz.tech)  
+**LinkedIn:** [linkedin.com/in/abmoiz123](https://linkedin.com/in/abmoiz123)  
+**Email:** abdulmoiz.faisal98@gmail.com  
+**Instagram:** [@ai.shipped](https://instagram.com/ai.shipped)
