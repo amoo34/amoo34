@@ -28,7 +28,7 @@ I have experienced across legal, real estate, healthcare, and social platforms.
 
 **AI / LLM:** LangChain · LangGraph · LangSmith · Pinecone · Jina AI · RAGAS · CrewAI · Instructor · Groq  
 **Backend:** FastAPI · Python · Node.js · NestJS · GraphQL (Apollo) · REST APIs  
-**Frontend:** Next.js · React · Vue.js . Angular 
+**Frontend:** Next.js · React · Vue.js . Angular  
 **Databases:** PostgreSQL · Supabase · MongoDB · Redis · Elasticsearch  
 **DevOps:** Docker · Kubernetes · GitHub Actions · CI/CD · GCP · AWS  
 **Security:** JWT · RBAC · GDPR · HIPAA-aware · Envelope encryption
