@@ -41,7 +41,7 @@ I have experienced across legal, real estate, healthcare, and social platforms.
 |---|---|---|
 | [LexCortex] | Legal document intelligence contract Q&A, clause extraction, comparison engine, audit trail | Legal AI |
 | [Djaminn] | Social platform for music artists real-time collaboration, content feeds, 1M+ users | Social / Music |
-| [Hauzpin] | Airbnb-style real estate marketplace property listings, geospatial search, buy/sell/rent | PropTech |
+| [Real-Estate Market place] | Airbnb-style real estate marketplace property listings, geospatial search, buy/sell/rent | PropTech |
 | Multimodal RAG Chatbot | Portfolio chatbot answering questions from documents and images | AI 
 
 ---
